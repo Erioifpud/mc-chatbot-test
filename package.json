@@ -1,0 +1,14 @@
+{
+  "name": "mcbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "minecraft-protocol": "^1.10.0",
+    "mineflayer": "^2.10.0",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "cssnano": "^4.1.10"
+  }
+}
