@@ -6,7 +6,7 @@
   "dependencies": {
     "minecraft-protocol": "^1.10.0",
     "mineflayer": "^2.10.0",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.4.0"
   },
   "devDependencies": {
     "cssnano": "^4.1.10"
